@@ -1,7 +1,9 @@
 # Dependencies
 
 [Git](https://git-scm.com/)
+
 [NodeJS](https://nodejs.org/) - The LTS version should be sufficient.
+
 [Visual Studio Code](https://code.visualstudio.com/) - Or your preferred development environment.
 
 # Setup
@@ -46,7 +48,7 @@ The basic requirement is to display a list of students and their grades in a gri
 
 ### Details
 
-The starting point for your web application will be **client/src/App.js**
+The starting point for your web application will be '**client/src/App.js**'
 
 The student data can be retrieved at an API endpoint URL '/grades' with a HTTP GET request.  The data will be a JSON array with the following interface:
 
