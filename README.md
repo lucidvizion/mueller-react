@@ -17,7 +17,7 @@ Open a Terminal window in the folder:  Terminal->New Terminal
 
 Run:
 
-`npm install`
+`npm run install-all`
 
 Once that has finished running, execute:
 
